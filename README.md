@@ -1,4 +1,4 @@
-# Hi 👋, My name is Steven and I DoNt LiKe MicroSoft.
+# Hello 👋, My name is Steven and I DoNt LiKe MicroSoft.
 
 Dont worry i know that microsft owns github !
 
