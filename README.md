@@ -4,8 +4,6 @@ Dont worry i know that microsft owns github !
 
 Checkout my youtube: GOOGLE IS BAD
 
-I am New To Github 👽
-
 I am passionate about coding and im currently learning c++
 
 Please show some interaction if my repos helped you in anyway !
